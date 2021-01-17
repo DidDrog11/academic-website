@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22" transform="translate(1.000000, 0.000000)">
+            <path d="M0,14.375 L13.75,14.375" id="Path-15" stroke="#A6B1C2" stroke-width="1.75" stroke-linecap="round"></path>
+            <g id="signs-11" transform="translate(6.875000, 6.250000) rotate(90.000000) translate(-6.875000, -6.250000) translate(0.625000, 1.250000)" fill="#A6B1C2" fill-rule="nonzero">
+                <path d="M8.27030481,3.94591047 L1.67450542,3.94591047 C1.09579673,3.94591047 0.625,4.41228052 0.625,4.98757713 C0.625,5.56688462 1.09487958,6.02924379 1.67450542,6.02924379 L8.28954571,6.02924379 L6.72057303,7.59895654 C6.31071866,8.00696013 6.31269987,8.66650409 6.72499824,9.07208919 C7.13729655,9.47767424 7.80378307,9.47571366 8.21363749,9.06771007 L11.5689006,5.72195389 C11.9787602,5.3139452 11.976773,4.65439114 11.5644622,4.24880823 L8.20919902,0.927897777 C7.79689339,0.522319968 7.13040692,0.524292259 6.72055987,0.932303037 C6.31071276,1.34031387 6.31270582,1.99985777 6.7250115,2.40543558 L8.27030481,3.94591047 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,890 @@
+
+Qeios Qeios
+Search
+Discover
+
+    About
+    How It Works
+    Membership
+    Sign Up Free
+    Log In
+
+    +1
+        JB
+        LS
+        DS
+
+Views
+
+20,556
+Peer Reviews
+
+1
+Downloads
+
+988
+Make action
+Version History
+Share  
+Altmetric Score
+Article has an altmetric score of 16
+Tags
+
+    COVID-19
+    hospitalisation
+    infection
+    mortality
+    SARS-CoV-2
+    smoking
+    tobacco
+
+Article Rating
+
+4.00 | 1  Vote
+Review Article
+Article
+Jul 1, 2020
+Qeios ID: UJR2AW.6
+Open Access
+CC BY
+Cite
+https://doi.org/10.32388/UJR2AW.6
+The association of smoking status with SARS-CoV-2 infection, hospitalisation and mortality from COVID-19: A living rapid evidence review (version 5)
+
+David Simons 1 , Lion Shahab 2 , Jamie Brown 2 , Olga Perski 2
+Author(s) details
+Declarations
+
+    Royal Veterinary College, RVC, London, United Kingdom
+    University College London, University of London, United Kingdom
+
+Abstract
+
+Background: SARS-CoV-2 is the causative agent of COVID-19, an emergent zoonotic disease which has reached pandemic levels and is designated a public health emergency of international concern. It is plausible that former or current smoking status is associated with infection, hospitalisation and/or mortality from COVID-19. Objective: We aimed to estimate the association of smoking status with rates of i) infection, ii) hospitalisation, iii) disease severity, and iv) mortality from SARS-CoV-2/COVID-19 disease. Methods: This is a living evidence review with frequent updates. We adopted recommended practice for rapid evidence reviews, which involved limiting the search to main databases and having one reviewer extract data and another verify. Published articles and pre-prints were identified via Ovid MEDLINE, medRxiv and expertise within the review team. We included observational or experimental studies with community-dwelling or hospitalised adults aged 16+ years who had received a test for SARS-CoV-2 infection or a diagnosis of COVID-19, providing that data on smoking status were reported. Studies were judged as ‘good’ quality if they: i) had low levels of missing data on smoking status (i.e. <20%) and used a reliable self-report measure that distinguished between current, former and never smoking status; AND ii) used biochemical verification of smoking status and reported results from adjusted analyses; OR reported data from a representative/random sample. Studies were rated as ‘fair’ if they fulfilled criterion i) only and were otherwise rated as ‘poor’. Results: Version 5 with searches up to 23 June 2020 included 148 studies, 43 of which were conducted in China, 37 in the US, 15 in the UK, nine in Mexico, nine in Spain, eight in France, six in Italy, five across multiple international sites, two in Israel, and one each from 14 further countries. Thirty-two (21.6%) studies reported current, former and never smoking status. Twenty-six studies (17.6%) explicitly reported the proportion missing data on smoking status, which ranged from 0.08% to 96.4%. Notwithstanding recording uncertainties, compared with adult national prevalence estimates, recorded current and former smoking rates were generally lower than expected. In 12 ‘fair’ quality studies, current smokers were at reduced risk of testing positive for SARS-CoV-2 compared with never smokers (RR = 0.70, 95% CI = 0.55-0.88, p = .003, I2 = 90%). No significant difference was observed between former and never smokers (RR = 1.02, 95% CI = 0.92-1.12, p = .76, I2 = 72%). In seven ‘fair’ quality studies, there was no significant difference between current and never (RR = 1.06, 95% CI = 0.79-1.44, p = .63, I2 = 79%) or former and never smokers (RR = 1.20, 95% CI = 0.95-1.51, p = .10, I2 = 79%) in the risk of requiring admission to hospital with COVID-19 among those testing positive in the community. In six ‘fair’ quality studies, no significant difference in disease severity was observed between current and never smokers (RR = 1.22, 95% CI = 0.98-1.53, p = .08, I2 = 22%). Former smokers were at increased risk of greater disease severity compared with never smokers (RR = 1.58, 95% CI = 1.07-2.32, p = .02, I2 = 68%). In five ‘fair’ quality studies, current (RR = 1.70, 95% CI = 1.14-2.55, p = .01, I2 = 29%) and former smokers (RR = 2.00, 95% CI = 1.57-2.55, p < .0.001, I2 = 0%) were at increased risk of in-hospital death compared with never smokers. Conclusions: Across 148 studies, there is substantial uncertainty about the associations of smoking with COVID-19 outcomes. The recorded smoking prevalence in the included studies was generally lower than overall adult national estimates. There was no evidence of reduced risk of admission to hospital for current compared with never smokers among those testing positive in the community. There was some evidence that current compared with never smoking is associated with reduced risk of testing positive in the community but also greater in-hospital mortality from COVID-19. There was some evidence that former compared with never smoking is associated with increased risk of greater disease severity and in-hospital mortality from COVID-19. Implications: Unrelated to COVID-19, smokers are at a greater risk of a range of serious health problems. Given uncertainty around the association of smoking with COVID-19 outcomes, smoking cessation remains a public health priority and high-quality smoking cessation advice including recommendations to use alternative nicotine products should form part of public health efforts during this pandemic. High quality, smoking-specific research is needed to resolve these mixed findings.
+
+Introduction
+
+ 
+
+COVID-19 is a respiratory disease caused by the emerging SARS-CoV-2 virus. Large age and gender differences in case severity and mortality have been observed in the ongoing COVID-19 pandemic 1 ; however, these differences are currently unexplained. SARS-CoV-2 enters epithelial cells through the ACE-2 receptor 2 . Some evidence suggests that gene expression and subsequent receptor levels are elevated in the airway and oral epithelium of current smokers 3,4 , thus putting smokers at higher risk of contracting SARS-CoV-2. Other studies, however, suggest that nicotine downregulates the ACE-2 receptor 5 . These uncertainties notwithstanding, both former and current smoking is known to increase the risk of respiratory viral 6,7 and bacterial 8,9 infections and is associated with worse outcomes once infected. Cigarette smoke reduces the respiratory immune defence through peri-bronchiolar inflammation and fibrosis, impaired mucociliary clearance and disruption of the respiratory epithelium 10 . There is also reason to believe that behavioural factors (e.g. regular hand-to-mouth movements) involved in smoking may increase SARS-CoV-2 infection and transmission in current smokers. However, early data from the COVID-19 pandemic have not provided clear evidence for a negative impact of current or former smoking on SARS-CoV-2 infection or COVID-19 disease outcomes, such as hospitalisation or mortality 11 . It has also been hypothesised that nicotine might protect against a hyper-inflammatory response (or “cytokine storm”) to SARS-CoV-2 infection, which may lead to adverse outcomes in patients with COVID-19 disease 12 .
+
+ 
+
+There are several reviews that fall within the scope of smoking and COVID-19 11,13–17 . We aimed to produce a rapid synthesis of available evidence pertaining to the rates of infection, hospitalisation, disease severity and mortality from SARS-CoV-2/COVID-19 stratified by smoking status. Given the increasing availability of data on this topic, this is a living review with regular updates. As evidence accumulates, the review will be expanded to include studies reporting COVID-19 outcomes by alternative nicotine use (e.g., nicotine replacement therapy or e-cigarettes).
+
+ 
+
+Methods
+
+ 
+
+Study design
+
+This is a living evidence review which is updated as new evidence becomes available 18 . We adopted recommended practice for rapid evidence reviews, which involved limiting the search to main databases and having one reviewer extract the data and another verify 19 .
+
+Eligibility criteria
+
+ 
+
+Studies were included if they:
+
+ 
+
+1)      Were primary research studies using experimental (e.g. randomised controlled trial), quasi-experimental (e.g. pre- and post-test) or observational (e.g. case-control, retrospective cohort, prospective cohort) study designs;
+
+2)      Included adults aged 16+ years;
+
+3)      Recorded as outcome i) results of a SARS-CoV-2 diagnostic test (including antibody assays), ii) clinical diagnosis of COVID-19, iii) hospitalisation with COVID-19, iv) severity of COVID-19 disease in those hospitalised or v) mortality from COVID-19;
+
+4)      Reported any of the outcomes of interest by self-reported or biochemically verified smoking status (e.g. current smoker, former smoker, never smoker);
+
+5)      Were available in English;
+
+6)      Were published in a peer-reviewed journal, as a pre-print or a public health report by reputable agents (e.g. governments, scientific societies).
+
+ 
+
+Search strategy
+
+ 
+
+The following terms were searched for in Ovid MEDLINE as free text or Medical Subject Headings:
+
+ 
+
+1. Tobacco Smoking/ or Smoking Cessation/ or Water Pipe Smoking/ or Smoking/ or Smoking Pipes/ or Cigar Smoking/ or Smoking Prevention/ or Cigarette Smoking/ or smoking.mp. or Pipe Smoking/ or Smoking, Non-Tobacco Products/ or Smoking Water Pipes/
+
+2. Nicotine/ or nicotine.mp. or Electronic Nicotine Delivery Systems/ or Nicotine Chewing Gum/
+
+3. vaping.mp. or Vaping/
+
+4. 1 or 2 or 3
+
+5. Coronavirus/ or Severe Acute Respiratory Syndrome/ or Coronavirus Infections/ or covid.mp.
+
+6. 4 and 5
+
+ 
+
+The following terms were searched for in titles, abstracts and full texts in medRxiv:
+
+ 
+
+covid smoking
+
+covid nicotine
+
+covid vaping
+
+ 
+
+Additional articles/reports of interest were identified through mailing lists, Twitter, the International Severe Acute Respiratory and Emerging Infection Consortium (ISARIC), the Intensive Care National Audit & Research Centre (ICNARC) and the US Centers for Disease Control and Prevention (CDC).
+
+ 
+
+Where updated versions of pre-prints or public health reports were available, old versions were superseded.
+
+ 
+
+Selection of studies
+
+ 
+
+One reviewer screened titles, abstracts and full texts against the inclusion criteria.
+
+ 
+
+Data extraction
+
+ 
+
+Data were extracted by one reviewer and verified by a second on i) author (year); ii) date published; iii) country; iv) study design; v) study setting; vi) sample size; vii) sex; viii) age; ix) smoking status (e.g. current, former, never, not stated, missing); x) SARS-CoV-2 infection; xi) diagnosis of COVID-19; xii) hospitalisation with COVID-19; xiii) disease severity in those hospitalised with COVID-19; and xiv) mortality.
+
+ 
+
+Quality appraisal
+
+ 
+
+In previous review versions, we used the National Institutes of Health’s Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies to determine the quality of included studies 20 . However, we decided against applying the entire tool in the current review version. The appraisal is challenging to apply when studying an emerging disease with unknown pathology. For example, it is not possible to determine what proportion of eligible participants/patients are included in the studied populations when the total number of infections in a given region/city is unknown. With a largely unknown disease process, it is also difficult to determine whether the time between the exposure and outcome is sufficient. We therefore focused on three of the 14 criteria to determine whether studies were of sufficient quality to warrant inclusion in meta-analysis. Studies were judged as ‘good’ quality if they: i) had low levels of missing data on smoking status (i.e. <20%) and used a reliable self-report measure that distinguished between current, former and never smoking status; AND ii) used biochemical verification of smoking status and reported results from adjusted analyses; OR reported data from a representative/random sample. Studies were rated as ‘fair’ if they fulfilled only criterion i) and were otherwise rated as ‘poor’. The quality appraisal was conducted by one reviewer and verified by a second.
+
+ 
+
+Evidence synthesis
+
+ 
+
+A narrative synthesis was conducted. Where possible, data were pooled in R v.3.6.3 21 with the Mantel-Haenszel or inverse variance method using random or fixed effects, depending on heterogeneity, and presented as risk ratios (RRs) 22 . Heterogeneity between study outcomes was assessed using the I2 statistic, suitable for smaller meta‐analyses 23 .
+
+To aid in the visualisation of smoking prevalence in the included studies, 95% bootstrap percentile confidence intervals were calculated for each study estimate. We performed 1,000 bootstrap replications, with the 2.5th and 97.5th percentiles of the empirical distribution forming the 95% bootstrap percentile confidence intervals 24 . It should be noted that prevalence estimates in the included studies were not adjusted for age, sex, socioeconomic position, or region within countries.
+
+ 
+
+Results
+
+ 
+
+In the current review version (v5), a total of 636 new records were identified, with 148 studies included in a narrative synthesis and 23 studies included in meta-analyses (see Figure 1).
+
+ 
+
+Figure 1. PRISMA flow diagram of included studies.
+
+ 
+
+Study characteristics
+
+ 
+
+Characteristics of included studies are presented in Table 1. Forty-three studies were conducted in China, 37 in the US, 15 in the UK, nine in Mexico, nine in Spain, eight in France, six in Italy, five across multiple international sites, two in Israel, and one each from Brazil, Chile, Denmark, Finland, Germany, India, Iran, South Korea, Kuwait, Poland, Portugal, Saudi Arabia, Switzerland and Turkey (see Figure 2). One-hundred-and-five studies were conducted in hospital settings. Thirty-four studies included a community component in addition to hospitalised patients. Seven studies were conducted exclusively in the community, one in a quarantine centre and one did not state the study setting. Studies had a median of 326 (interquartile range = 106-1,122) participants.
+
+ 
+
+Figure 2. Map of countries where included studies were conducted. Five studies were performed in multiple countries and are hence not included here.
+
+ 
+
+Smoking status
+
+ 
+
+Categorisation of smoking status was heterogeneous (see Table 1). Ninety-two studies collected data on smoking status through routine electronic health records, 35 studies used a bespoke case report form for COVID-19 and 21 studies did not state the source for information on smoking status. None of the studies verified smoking status biochemically. Notably, only 32 (21.6%) studies reported current, former and never smoking status, with a further 11 studies reporting current/former and never smoking status. The remaining 105 studies reported current, current/former or current and former smoking status but did not explicitly state whether remaining participants were never smokers or if data were missing on smoking status. Twenty-six studies explicitly reported the proportion with missing data on smoking status, which ranged from 0.08% to 96.4%.
+
+ 
+
+Use of alternative nicotine products
+
+ 
+
+Two studies recorded the use of alternative nicotine products in current and/or former smokers but did not report COVID-19 outcomes stratified by nicotine use 25,26 .
+
+ 
+
+Quality appraisal
+
+ 
+
+Twenty-eight studies were rated as ‘fair’ quality due to having low levels of missing data and distinguishing between current, former and never smoking status (see Table 1). The remaining 120 studies were rated as ‘poor’ quality.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Smoking prevalence by country
+
+ 
+
+Unadjusted smoking prevalence compared with overall estimates for national adult smoking prevalence split by country and study setting is presented in Figure 3a and 3b. Lower than expected current and former smoking prevalence was generally observed. Large variability in prevalence estimates was observed across studies conducted in the US.
+
+ 
+
+Figure 3a. Weighted mean prevalence of current smoking in included studies with 95% bootstrap confidence intervals compared with national current smoking prevalence (solid red lines), split by country. Shape corresponds to study setting (community, community and hospital, hospital) and shape size corresponds to relative study sample size.
+
+ 
+
+Figure 3b. Weighted mean prevalence of former smoking in included studies (where this was reported) with 95% bootstrap confidence intervals compared with national former smoking prevalence (solid red lines), split by country. Shape corresponds to study setting (community, community and hospital, hospital) and shape size corresponds to relative study sample size.
+
+ 
+
+SARS-CoV-2 infection by smoking status
+
+ 
+
+Twenty-five studies provided data on SARS-CoV-2 test results for people meeting local testing criteria by smoking status (see Table 2). Meta-analyses were performed for 12 ‘fair’ quality studies (see Figure 4 and 5). Current smokers were at reduced risk of testing positive for SARS-CoV-2 compared with never smokers (RR = 0.70, 95% CI = 0.55-0.88, p = .003, I 2 = 90%). No significant difference was observed between former and never smokers (RR = 1.02, 95% CI = 0.92-1.12, p = .76, I 2 = 72%).
+
+ 
+
+Table 2 . SARS-CoV-2 infection by smoking status.
+
+ 
+
+ 
+
+ 
+
+Figure 4. Forest plot for risk of testing positive for SARS-CoV-2 in current vs. never smokers.
+
+ 
+
+Figure 5. Forest plot for risk of testing positive for SARS-CoV-2 in former vs. never smokers.
+
+ 
+
+Hospitalisation for COVID-19 by smoking status
+
+ 
+
+Twenty-one studies examined hospitalisation for COVID-19 disease stratified by smoking status (see Table 3). Meta-analyses were performed for seven ‘fair’ quality studies (see Figure 6 and 7). There was no significant difference between current and never (RR = 1.06, 95% CI = 0.79-1.44, p = .63, I 2 = 79%) or former and never smokers (RR = 1.20, 95% CI = 0.95-1.51, p = .10, I 2 = 79%) in the risk of requiring admission to hospital with COVID-19.
+
+ 
+
+Table 3. Hospitalisation for COVID-19 by smoking status.
+
+ 
+
+ 
+
+ 
+
+Figure 6. Forest plot for risk of hospitalisation in current vs. never smokers.
+
+Figure 7. Forest plot for risk of hospitalisation in former vs. never smokers.
+
+ 
+
+Disease severity by smoking status
+
+ 
+
+Forty studies reported disease severity in hospitalised patients stratified by smoking status (see Table 4). Severe (as opposed to non-severe) disease was broadly defined as requiring ITU admission, requiring oxygen as a hospital inpatient or in-hospital death. Meta-analyses were performed for six ‘fair’ quality studies (see Figure 8 and 9). No significant difference was observed between current and never smokers (RR = 1.22, 95% CI = 0.98-1.53,  p = .08, I 2 = 22%). Former smokers were at increased risk of greater disease severity compared with never smokers (RR = 1.58, 95% CI = 1.07-2.32, p = .02, I 2 = 68%).
+
+ 
+
+Table 4. Disease severity by smoking status.
+
+ 
+
+ 
+
+ 
+
+Figure 8. Forest plot for the risk of severe disease in current vs. never smokers.
+
+ 
+
+Figure 9. Forest plot for the risk of severe disease in former vs. never smokers.
+
+ 
+
+Mortality by smoking status
+
+ 
+
+Thirty studies reported mortality from COVID-19 by smoking status (see Table 5), with five ‘fair’ quality studies included in meta-analyses (see Figure 10 and 11). Current (RR = 1.70, 95% CI = 1.14-2.55, p = .01, I 2 = 29%) and former (RR = 2.00, 95% CI = 1.57-2.55, p < .0.001, I 2 = 0%) smokers were at increased risk of in-hospital mortality from COVID-19 compared with never smokers.
+
+ 
+
+Table 5 . Mortality by smoking status.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 10. Forest plot for the risk of mortality in current vs. never smokers.
+
+ 
+
+Figure 11. Forest plot for the risk of mortality in former vs. never smokers.
+
+ 
+
+Discussion
+
+ 
+
+This rapid review of 148 studies found substantial uncertainty arising from the recording of smoking status. Notwithstanding these uncertainties, compared with overall adult national prevalence estimates, recorded current and former smoking rates in most countries were lower than expected. From available data, there was insufficient evidence to conclude that current and/or former smoking status is associated with hospitalisation. There was some evidence from ‘fair’ quality studies that the risk of SARS-CoV-2 infection is reduced in current compared with never smokers. Conversely, former compared with never smokers were at increased risk of greater disease severity in those hospitalised for COVID-19. Both current and former smokers had increased risk of in-hospital mortality from COVID-19 compared with never smokers.
+
+ 
+
+Infection by smoking status
+
+ 
+
+In 12 ‘fair’ quality studies, evidence suggests that current smokers in the community are less likely to test positive for SARS-CoV-2 compared with never smokers. It should be noted that criteria for accessing testing will vary during the course of the epidemic. It is possible that current and former smokers are more likely to receive a test due to increased prevalence of cough or altered sense of smell or taste 172 , which are used as screening criteria. Infection positivity rates estimated among random samples will be more informative than currently available data. Smoking status is being collected in at least two large representative infection and antibody surveys in the UK 173,174 .
+
+ 
+
+Hospitalisation and disease severity by smoking status
+
+ 
+
+As reported elsewhere 175 , smoking prevalence among multiple hospital and community cohorts was consistently lower than national estimates. In a single study conducted in Korea and 15 studies of varying quality conducted in the UK, however, current and former smoking rates were more similar to expected national estimates.
+
+ 
+
+In seven ‘fair’ quality studies across four countries, there was no evidence that current or former smokers are at lower risk of hospitalisation for COVID-19 compared with never smokers among those testing positive in the community. There was some evidence from six ‘fair’ quality studies that former (but insufficient evidence that current) smokers are at increased risk of greater disease severity compared with never smokers.
+
+ 
+
+Mortality by smoking status
+
+ 
+
+In five ‘fair’ quality studies, there was some evidence that current and former smokers are at increased risk of in-hospital mortality from COVID-19 compared with never smokers. It should, however, be noted that given lack of knowledge of the disease progression and long-term outcomes of COVID-19 disease, it is unclear whether studies conducted thus far in the pandemic have monitored patients for a sufficient time period to report complete survival outcomes or whether they are subject to early censoring.
+
+ 
+
+Issues complicating interpretation
+
+ 
+
+Interpretation of results from studies conducted during the first phase of the SARS-CoV-2 pandemic is complicated by several factors (see Figure 11). First, exposure to SARS-CoV-2 is heterogeneous with different subgroups at heightened risk of infection at different stages of the pandemic. This will likely introduce bias in studies assessing the rate of infection by smoking status conducted early on. Second, as mentioned above, current and former smokers may be more likely to meet local criteria for community testing due to increased prevalence of symptoms consistent with SARS-CoV-2 infection, such as cough, increased sputum production or altered sense of smell or taste 172 . Third, testing for acute infection requires swabbing of the mucosal epithelium, which may be disrupted in current smokers, potentially altering the sensitivity of assays 88 .
+
+ 
+
+Fourth, most included studies relied on electronic health records (EHRs) as the source of information on smoking status. Research shows large discrepancies between EHRs and actual behaviour 176 . Known failings of EHRs include implausible longitudinal changes, such as former smokers being recorded as never smokers at subsequent hospital visits 176 . Misreporting on the part of the patient (perhaps due to perceived stigmatisation) has also been observed, with biochemical measures showing higher rates of smoking compared with self-report in hospitalised patients in the US 177 . It is hence possible that under-reporting of current and former smoking status in hospitals occurred across the included studies. Fifth, individuals with severe COVID-19 symptoms may have stopped smoking immediately before admission to hospital and may therefore not have been recorded as current smokers (i.e. reverse causality).
+
+ 
+
+Sixth, smokers with COVID-19 may be less likely to receive a SARS-CoV-2 test or present to hospital due to lack of access to healthcare and may be more likely to die in the community from sudden complications (i.e. self-selection bias) and thus not be recorded. Seventh, if there is a protective effect of nicotine on COVID-19 disease outcomes, abrupt nicotine withdrawal upon hospitalisation may lead to worse outcomes 12 . Eight, during periods of heightened demand of limited healthcare resources, current and former smokers with extensive comorbidities may have reduced priority for intensive care admission, thus leading to higher in-hospital mortality.
+
+ 
+
+Another important issue is that the reason for hospitalisation varies by country and time in the pandemic. For example, early cases may have been hospitalised for isolation and quarantine reasons and not due to medical necessity. It is plausible that this may have skewed early data towards less severe cases. In addition, the observed association between former smoking and greater disease severity may be explained by collider bias 178 , where conditioning on a collider (e.g. testing or hospitalisation) by design or analysis may introduce a spurious association between current or former smoking (a potential cause of testing or hospitalisation) and SARS-CoV-2 infection/adverse outcomes from COVID-19 (potentially exacerbated by smoking) 179 .
+
+ 
+
+Figure 11. A schematic of some of the interpretation issues for the association of smoking and SARS-CoV-2/COVID-19. * Indicates potential confounding with smoking status.
+
+ 
+
+Limitations
+
+ 
+
+This living rapid evidence review was limited by not having two independent reviewers extracting data, limiting the search to one electronic database and one pre-print server and by not including at least three large population surveys due to their reliance on self-reported suspected SARS-CoV-2 infection (which means they do not meet our eligibility criteria) 172,180,181 . Population surveys – particularly with linked health data – will be included in future review versions to help mitigate some of the limitations of healthcare based observational studies. . The comparisons of current and former smoking prevalence in the included studies with national prevalence estimates did not adjust observed prevalence for the demographic profile of those tested/admitted to hospital. Other reviews focused on this comparison have applied adjustment for sex, and continue to find lower than expected prevalence – notwithstanding the issues complicating interpretation described above 16 .  Future versions of the review will take a Bayesian approach to the comparisons to mitigate the issue of repeating multiple meta-analyses across different versions of this living review.
+
+ 
+
+Implications for research, policy and practice
+
+ 
+
+Further scientific research is needed to resolve the mixed findings summarised in our review. First, clinical trials of the posited therapeutic effect of nicotine could have important implications both for smokers and for improved understanding of how the SARS-CoV-2 virus causes disease in humans. Such trials should focus on medicinal nicotine (as smoked tobacco is a dirty delivery mechanism that could mask beneficial effects) and potentially differentiate between different modes of delivery (i.e. inhaled vs. ingested) since this can affect pharmacokinetics 182 and potential therapeutic effects. A second research priority would be a large, representative (randomly sampled) population survey with a validated assessment of smoking status which distinguishes between recent and long-term ex-smokers – ideally biochemically verified – and assesses seroprevalence and links to health records.
+
+ 
+
+In the meantime, public-facing messages about the possible protective effect of smoking or nicotine are premature. In our view, until there is further research, the quality of the evidence does not justify the huge risk associated with a message likely to reach millions of people that a lethal activity, such as smoking, may protect against COVID-19. It continues to be appropriate to recommend smoking cessation and emphasise the role of alternative nicotine products to support smokers to stop as part of public health efforts during COVID-19. At the very least, smoking cessation reduces acute risks from cardiovascular disease and could reduce demands on the healthcare system 183 . GPs and other healthcare providers can play a crucial role – brief, high-quality and free online training is available at National Centre for Smoking Cessation and Training.
+
+ 
+
+Conclusion
+
+ 
+
+Across 148 studies, there is substantial uncertainty arising from the recording of smoking status on whether current and/or former smoking status is associated with SARS-CoV-2 infection, hospitalisation or mortality. There is some evidence that current smoking compared with never is associated with reduced risk of testing positive in the community but greater in-hospital mortality from COVID-19. There is some evidence that former compared with never smoking is associated with increased risk of greater disease severity and in-hospital mortality from COVID-19.
+
+ 
+
+Acknowledgements
+
+ 
+
+An original short review for the Royal College of Physicians was converted to an extended living review after a request by Martin Dockrell, Tobacco Control Lead, Public Health England. All scientific decisions were made by the authors independently of funders and external organisations. The authors would like to thank Rosemary Koper for her assistance in running the electronic searches and data extraction.
+
+ 
+
+Declaration of conflicts of interest
+
+ 
+
+DS and OP have no conflicts of interest to declare. LS has received a research grant and honoraria for a talk and travel expenses from manufacturers of smoking cessation medications (Pfizer and Johnson & Johnson). JB has received unrestricted research funding to study smoking cessation from companies who manufacture smoking cessation medications. All authors declare no financial links with tobacco companies or e-cigarette manufacturers or their representatives.
+
+ 
+
+Funding statement
+
+ 
+
+DS is supported by a PhD studentship from the UK Biotechnology and Biological Sciences Research Council [BB/M009513/1]. OP receives salary support from Cancer Research UK (C1417/A22962). JB, LS, & OP are members of SPECTRUM, a UK Prevention Research Partnership Consortium (MR/S037519/1). UKPRP is an initiative funded by the UK Research and Innovation Councils, the Department of Health and Social Care (England) and the UK devolved administrations, and leading health research charities.
+
+ 
+
+Data availability
+
+ 
+
+Extracted data from included studies is available from a maintained Google Sheet document here:  link
+
+The code to reproduce the analysis and generate the plots and figures is available here:  link
+
+ 
+
+References
+
+1            Guan W, Ni Z, Hu YY, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med 2020; : NEJMoa2002032.
+
+2            Hoffmann M, Kleine-Weber H, Schroeder S, et al. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell 2020; published online March 5. DOI:10.1016/j.cell.2020.02.052.
+
+3            Brake SJ, Barnsley K, Lu W, McAlinden KD, Eapen MS, Sohal SS. Smoking Upregulates Angiotensin-Converting Enzyme-2 Receptor: A Potential Adhesion Site for Novel Coronavirus SARS-CoV-2 (Covid-19). J Clin Med 2020, Vol 9, Page 841 2020; 9: 841.
+
+4            Cai G. Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene Expression of ACE2, the Receptor of 2019-nCov. 2020; published online March 2. DOI:10.20944/PREPRINTS202002.0051.V3.
+
+5            Oakes JM, Fuchs RM, Gardner JD, Lazartigues E, Yue X. Nicotine and the renin-angiotensin system. Am. J. Physiol. - Regul. Integr. Comp. Physiol. 2018; 315: R895–906.
+
+6            Denholm JT, Gordon CL, Johnson PD, et al. Hospitalised adult patients with pandemic (H1N1) 2009 influenza in Melbourne, Australia. Med J Aust 2010; 192: 84–6.
+
+7            Abadom TR, Smith AD, Tempia S, Madhi SA, Cohen C, Cohen AL. Risk factors associated with hospitalisation for influenza-associated severe acute respiratory illness in South Africa: A case-population study. Vaccine 2016; 34: 5649–55.
+
+8            Almirall J, González CA, Balanzó X, Bolíbar I. Proportion of community-acquired pneumonia cases attributable to tobacco smoking. Chest 1999; 116: 375–9.
+
+9            Feldman C, Anderson R. Cigarette smoking and mechanisms of susceptibility to infections of the respiratory tract and other organ systems. J. Infect. 2013; 67: 169–84.
+
+10          Dye JA, Adler KB. Occasional review Effects of cigarette smoke on epithelial cells of the respiratory tract. Thorax 1994; 49: 825–34.
+
+11          Vardavas CI, Nikitara K. COVID-19 and smoking: A systematic review of the evidence. Tob Induc Dis 2020; 18: 20.
+
+12          Farsalinos K, Niaura R, Le Houezec J, et al. Editorial: Nicotine and SARS-CoV-2: COVID-19 may be a disease of the nicotinic cholinergic system. Toxicol Reports 2020; published online April. DOI:10.1016/j.toxrep.2020.04.012.
+
+13          Emami A, Javanmardi F, Pirbonyeh N, Akbari A. Prevalence of Underlying Diseases in Hospitalized Patients with COVID-19: a Systematic Review and Meta-Analysis. Arch Acad Emerg Med 2020; 8: e35.
+
+14          Alqahtani JS, Oyelade T, Aldhahir AM, et al. Prevalence, Severity and Mortality associated with COPD and Smoking in patients with COVID-19: A Rapid Systematic Review and Meta-Analysis. medRxiv 2020; : 2020.03.25.20043745.
+
+15          Patanavanich R, Glantz SA. Smoking is Associated with COVID-19 Progression: A Meta-Analysis. medRxiv 2020. DOI:10.14171/j.2095-5944.sg.2014.02.004.
+
+16          Farsalinos K, Barbouni A, Niaura R. Smoking, vaping and hospitalization for COVID-19. Qeios 2020; published online March 25. DOI:10.32388/Z69O8A.8.
+
+17          Berlin I, Thomas D, Le Faou A-L, Cornuz J. COVID-19 and Smoking. Nicotine Tob Res DOI:10.1093/NTR/NTAA059.
+
+18          Elliott JH, Turner T, Clavisi O, et al. Living Systematic Reviews: An Emerging Opportunity to Narrow the Evidence-Practice Gap. PLoS Med 2014; 11. DOI:10.1371/journal.pmed.1001603.
+
+19          Tricco AC, Antony J, Zarin W, et al. A scoping review of rapid review methods. BMC Med 2015; 13: 224.
+
+20          National Heart Lung and Blood Institute. Study Quality Assessment Tools. Natonal Institutes Heal. 2018; : 1–35.
+
+21          R Core Team. The R Project for Statistical Computing. 2013; : 1–12.
+
+22          Higgins JPT, Wells GA. Cochrane handbook for systematic reviews of interventions. 2011.
+
+23          Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. Br. Med. J. 2003; 327: 557–60.
+
+24          Efron B. Better bootstrap confidence intervals. J Am Stat Assoc 1987; 82: 171–85.
+
+25          Miyara M, Tubach F, Martinez V, et al. Low rate of daily smokers in patients with symptomatic COVID-19. medrxiv 2020; : 2020.06.10.20127514.
+
+26          Rimland CA, Morgan CE, Bell GJ, et al. Clinical characteristics and early outcomes in patients with COVID-19 treated with tocilizumab at a United States academic center. medRxiv 2020; : 2020.05.13.20100404.
+
+27          Guan W, Liang W, Zhao Y, et al. Comorbidity and its impact on 1590 patients with Covid-19 in China: A Nationwide Analysis. Eur Respir J 2020; : 2000547.
+
+28          Lian J, Jin X, Hao S, et al. Analysis of Epidemiological and Clinical Features in Older Patients With Coronavirus Disease 2019 (COVID-19) Outside Wuhan. Clin Infect Dis 2020; 2019: 1–8.
+
+29          Jin X, Lian JS, Hu JH, et al. Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms. Gut 2020; published online March 24. DOI:10.1136/gutjnl-2020-320926.
+
+30          Chen T, Wu D, Chen H, et al. Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study. Bmj 2020; 368: m1295.
+
+31          Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 2020; 0. DOI:10.1016/s0140-6736(20)30566-3.
+
+32          Mo P, Xing Y, Xiao Y, et al. Clinical characteristics of refractory COVID-19 pneumonia in Wuhan, China. Clin Infect Dis 2020; published online March 16. DOI:10.1093/cid/ciaa270.
+
+33          Zhang J, Dong X, Cao Y, et al. Clinical characteristics of 140 patients infected with SARS‐CoV‐2 in Wuhan, China. Allergy 2020; : all.14238.
+
+34          Wan S, Xiang Y, Fang W, et al. Clinical features and treatment of COVID-19 patients in northeast Chongqing. J Med Virol 2020; : 1–10.
+
+35          Liu W, Tao Z-W, Wang L, et al. Analysis of factors associated with disease outcomes in hospitalized patients with 2019 novel coronavirus disease. Chin Med J (Engl) 2020; 133: 1.
+
+36          Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020; 395: 497–506.
+
+37          Zhang X, Cai H, Hu J, et al. Epidemiological, clinical characteristics of cases of SARS-CoV-2 infection with abnormal imaging findings. Int J Infect Dis 2020; 94: 81–7.
+
+38          Guo T, Fan Y, Chen M, et al. Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol 2020; 2019. DOI:10.1001/jamacardio.2020.1017.
+
+39          Liu R, Ming X, Zhu H, et al. Association of Cardiovascular Manifestations with In-hospital Outcomes in Patients with COVID-19: A Hospital Staff Data. medRxiv 2020; : 2020.02.29.20029348.
+
+40          Xu HH, Hou K, Xu HH, et al. Acute Myocardial Injury of Patients with Coronavirus Disease 2019. medRxiv 2020; : 2020.03.05.20031591.
+
+41          Li J, Li S, Cai Y, et al. Epidemiological and Clinical Characteristics of 17 Hospitalized Patients with 2019 Novel Coronavirus Infections Outside Wuhan, China. medRxiv 2020; : 2020.02.11.20022053.
+
+42          Rentsch CT, Kidwai-Khan F, Tate JP, et al. Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years. medRxiv 2020; : 2020.04.09.20059964.
+
+43          Hu L, Chen S, Fu Y, et al. Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China. medRxiv 2020; : 2020.03.25.20037721.
+
+44          Wang R, Pan M, Zhang X, et al. Epidemiological and clinical features of 125 Hospitalized Patients with COVID-19 in Fuyang, Anhui, China. Int J Infect Dis 2020; : 127065.
+
+45          Petrilli CM, Jones SA, Yang J, et al. Factors associated with hospitalization and critical illness among 4,103 patients with COVID-19 disease in New York City. medRxiv 2020; : 2020.04.08.20057794.
+
+46          Chow N, Fleming-Dutra K, Gierke R, et al. Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020. Morb Mortal Wkly Rep 2020; 69: 382–6.
+
+47          Dong X, Cao Y, Lu X, et al. Eleven Faces of Coronavirus Disease 2019. Allergy 2020; : 1–11.
+
+48          Kim ES, Chin BS, Kang CK, et al. Clinical Course and Outcomes of Patients with Severe Acute Respiratory Syndrome Coronavirus 2 Infection: a Preliminary Report of the First 28 Patients from the Korean Cohort Study on COVID-19. J Korean Med Sci 2020; 35: e142.
+
+49          Shi Y, Yu X, Zhao H, Wang H, Zhao R, Sheng J. Host susceptibility to severe COVID-19 and establishment of a host risk score: Findings of 487 cases outside Wuhan. Crit Care 2020; 24: 2–5.
+
+50          Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med 2020; 2600: 1–7.
+
+51          Argenziano MG, Bruce SL, Slater CL, et al. Characterization and Clinical Course of 1000 Patients with COVID-19 in New York: retrospective case series. medRxiv 2020; : 2020.04.20.20072116.
+
+52          Solis P, Carreno H. COVID-19 Fatality and Comorbidity Risk Factors among Diagnosed Patients in Mexico. 2020. DOI:10.1101/2020.04.21.20074591.
+
+53          Richardson S, Hirsch JS, Narasimhan M, et al. Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA 2020; 10022: 1–8.
+
+54          Fontanet A, Tondeur L, Madec Y, et al. Cluster of COVID-19 in northern France: A retrospective closed cohort study. medRxiv 2020; : 2020.04.18.20071134.
+
+55          Zheng KI, Gao F, Wang X-B, et al. Obesity as a risk factor for greater severity of COVID-19 in patients with metabolic associated fatty liver disease. Metabolism 2020; : 154244.
+
+56          Liao Y, Feng Y, Wang B, et al. Clinical Characteristics and Risk factors for developed COVID-19 patients transferring to designated hospital from Jianghan Fangcang shelter Hospital : a retrospective , Summary : 2020; : 1–16.
+
+57          Rodriguez-Cola M, Jimenez-Velasco I, Gutierrez-Henares F, et al. Clinical features of coronavirus disease 2019 (COVID-19) in a cohort of patients with disability due to spinal cord injury. 2020. DOI:10.1101/2020.04.20.20072918.
+
+58          Magagnoli J, Narendran S, Pereira F, et al. Outcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19. medRxiv 2020; : 2020.04.16.20065920.
+
+59          Shi P, Ren G, Yang J, et al. Clinical characteristics of imported and second-generation COVID-19 cases outside Wuhan, China: A multicenter retrospective study. 2020. DOI:10.1101/2020.04.19.20071472.
+
+60          Hadjadj J, Yatim N, Barnabei L, et al. Impaired type I interferon activity and exacerbated inflammatory responses in severe Covid-19 patients. medRxiv 2020; : 2020.04.19.20068015.
+
+61          Niedzweidz C, O’Donnell CA, Jani BD, et al. Ethnic and socioeconomic differences in SARS-CoV-2 infection: prospective cohort study using UK Biobank. 2020. DOI:10.1101/2020.04.22.20075663.
+
+62          Gold JAW, Wong KK, Szablewski CM, Patel PR, Rossow J, Silva J. Characteristics and Clinical Outcomes of Adult Patients Hospitalized with COVID-19 — Georgia , March 2020. 2020; 69. https://www.cdc.gov/mmwr/volumes/69/wr/mm6918e1. htm?s_cid=mm6918e1_w.
+
+63          Yu T, Cai S, Zheng Z, et al. Association between clinical manifestations and prognosis in patients with COVID-19. Clin Ther 2020; xxx: 1–9.
+
+64          Zheng Y, Xiong C, Liu Y, et al. Epidemiological and Clinical Characteristics Analysis of COVID-19 in the Surrounding Areas of Wuhan, Hubei Province in 2020. Pharmacol Res 2020; 157: 104821.
+
+65          Rica R de la, Borges M, Aranda M, et al. Low albumin levels are associated with poorer outcomes in a case series of COVID-19 patients in Spain: a retrospective cohort study. medRxiv 2020; : 1–35.
+
+66          Yin R, Yang Z, Wei Y, et al. Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study. medRxiv 2020; : 2020.04.29.20085415.
+
+67          Gaibazzi N, Tuttolomondo D, Guidorossi A, et al. Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19. medRxiv 2020; : 2020.05.05.20092015.
+
+68          Shi H, Zuo Y, Yalavarthi S, et al. Neutrophil calprotectin identifies severe pulmonary disease in COVID-19 Hui. medRxiv 2020; : 1–15.
+
+69          Cho ER, Jha P. Smoking and the risk of COVID-19 infection in the UK Biobank Prospective Study. 2020; : 10–3.
+
+70          Allenbach Y, Saadoun D, Maalouf G, et al. Multivariable prediction model of intensive care unit transfer and death: a French prospective cohort study of COVID-19 patients. medRxiv 2020; : 2020.05.04.20090118.
+
+71          Robilotti E V, Babady NE, Ph D, et al. Determinants of Severity in Cancer Patients with COVID-19 Illness. medRxiv 2020; : 1–19.
+
+72          Collaborative TO, Williamson E, Walker AJ, et al. OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients. medRxiv 2020; : 2020.05.06.20092999.
+
+73          Borobia AM, Carcas AJ, Arnalich F, Alvarez-Sala R, Montserrat J, Quintana M. A cohort of patients with COVID-19 in a major teaching hospital in Europe. medRxiv 2020. DOI:10.1101/2020.04.29.20080853.
+
+74          Giacomelli A, Ridolfo AL, Milazzo L, et al. 30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: a prospective cohort study. medRxiv 2020; : 1–25.
+
+75          Shah SJ, Barish PN, Prasad PA, et al. illness : a comparison of patients with and without COVID-19. 2020.
+
+76          Bello-Chavolla OY, Bahena-Lopez JP, Antonio-Villa NE, et al. Predicting mortality attributable to SARS-CoV-2: A mechanistic score relating obesity and diabetes to COVID-19 outcomes in Mexico. medRxiv 2020; 52: 2020.04.20.20072223.
+
+77          Kolin DA, Kulm S, Elemento O. Clinical and Genetic Characteristics of Covid-19 Patients from UK Biobank. medRxiv 2020; : 2020.05.05.20075507.
+
+78          Lubetzky M, Aull M, Craig-Shapiro R, et al. Kidney Allograft Recipients Diagnosed with Coronavirus Disease-2019 : A Single Center Report. medRxiv 2020; : 2020.04.30.20086462.
+
+79          Goyal P, Choi JJ, Pinheiro LC, et al. Clinical Characteristics of Covid-19 in New York City. N Engl J Med 2020; published online April 17. DOI:10.1056/nejmc2010419.
+
+80          Feng Y, Ling Y, Bai T, et al. COVID-19 with Different Severity: A Multi-center Study of Clinical Features. Am J Respir Crit Care Med 2020; : 1–53.
+
+81          Yao Q, Wang P, Wang X, et al. Retrospective study of risk factors for severe SARS-Cov-2 infections in hospitalized adult patients. Polish Arch Intern Med 2020. DOI:10.20452/pamw.15312.
+
+82          Sami R, Soltaninejad F, Amra B, et al. A one-year hospital-based prospective CVOID-19 open-cohort in the Eastern Mediterranean region: The Khorshid COVID Cohort (KCC) study. medRxiv 2020; : 2020.05.11.20096727.
+
+83          Almazeedi S, Youha S Al, Jamal MH, et al. Clinical Characteristics, Risk Factors and Outcomes Among the First Consecutive 1,096 Patients Diagnosed with COVID-19: The Kuwait Experience. medRxiv 2020; : 2020.05.09.20096495.
+
+84          Carrillo-Vega MF, Salinas-Escudero G, Garcia-Peña C, Gutierrez-Robledo LM, Parra-Rodriguez L, Fernanda M. Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico. medRxiv 2020; : 2020.05.11.20098145.
+
+85          Yanover AC, Mizrahi B, Kalkstein N, Marcus K, Akiva P, Barer Y. What factors increase the risk of complications in SARS-CoV-2 positive patients ? A cohort study in a nationwide Israeli health organization. 2020.
+
+86          Hamer M, Kivimäki M, Gale CR, Batty GD. Lifestyle Risk Factors for Cardiovascular Disease in Relation to COVID-19 Hospitalization : A Community-Based Cohort Study of 387 , 109 Adults in UK Division of Surgery and Interventional Sciences , Faculty Medical Sciences , University College London , L. 2020; : 1–11.
+
+87          Regina J, Papadimitriou-Olivgeris M, Burger R, et al. Epidemiology, risk factors and clinical course of SARS-CoV-2 infected patients in a Swiss university hospital: an observational retrospective study. medRxiv 2020; : 2020.05.11.20097741.
+
+88          de Lusignan S, Dorward J, Correa A, et al. Risk factors for SARS-CoV-2 among patients in the Oxford Royal College of General Practitioners Research and Surveillance Centre primary care network: a cross-sectional study. Lancet Infect Dis 2020; 0. DOI:10.1016/S1473-3099(20)30371-6.
+
+89          Targher G, Mantovani A, Wang X-B, et al. Patients with diabetes are at higher risk for severe illness from COVID-19. Diabetes Metab 2020; published online May 13. DOI:10.1016/j.diabet.2020.05.001.
+
+90          Valenti L, Bergna A, Pelusi S, et al. SARS-CoV-2 seroprevalence trends in healthy blood donors during the COVID-19 Milan outbreak. medRxiv 2020; : 2020.05.11.20098442.
+
+91          Feuth T, Saaresranta T, Karlsson A, et al. Is sleep apnoea a risk factor for Covid-19? Findings from a retrospective cohort study. medRxiv 2020; : 2020.05.14.20098319.
+
+92          Ge H, Zhu M, Du J, et al. Cardiac Structural and Functional Characteristics in Patients with Coronavirus Disease 2019: A Serial Echocardiographic Study. medRxiv 2020; : 2020.05.12.20095885.
+
+93          Parrotta E, Kister I, Charvet L, et al. COVID-19 OUTCOMES IN MS EARLY EXPERIENCE FROM NYU MULTIPLE SCLEROSIS COMPREHENSIVE CARE CENTER. medrxiv 2020; : 1–9.
+
+94          Shekhar R, Upadhyay S, Sheikh A, Atencio J, Kapuria D. Early experience with COVD-19 patients at tertiary care teaching hospital in southwestern United states. medrxiv 2020; : 1–15.
+
+95          Mejia-Vilet JM, Cordova-Sanchez BM, Fernandez-Camargo D, Mendez-Perez RA, Morales-Buenrostro LE, Hernandez-Gilsoul T. DERIVATION OF A SCORE TO PREDICT ADMISSION TO INTENSIVE CARE UNIT IN PATIENTS WITH COVID-19: THE ABC-GOALS SCORE. medRxiv 2020; : 2020.05.12.20099416.
+
+96          Chen C, Jiang J, Xu X, Hu Y, Hu Y, Zhao Y. Dynamic liver function indexes monitoring and clinical characteristics in three types of COVID-19 patients. medRxiv 2020; : 2020.05.13.20099614.
+
+97          Li J, Chen Y, Chen S, et al. Derivation and validation of a prognostic model for predicting in-hospital mortality in patients admitted with COVID-19 in Wuhan China the PLANS (Platelet Lymphocyte Age Neutrophil Sex) model. medrxiv 2020; : 2020.05.13.20100370.
+
+98          Palaiodimos L, Kokkinidis DG, Li W, et al. Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York. Metabolism 2020; 108: 154262.
+
+99          Ip A, Berry DA, Hansen E, et al. Hydroxychloroquine and Tocilizumab Therapy in COVID-19 Patients - An Observational Study. medRxiv 2020; : 2020.05.21.20109207.
+
+100       Heili-Frades S, Minguez P, Mahillo-Fernandez I, et al. COVID-19 Outcomes in 4712 consecutively confirmed SARS-CoV2 cases in the city of Madrid. medRxiv 2020; : 2020.05.22.20109850.
+
+101       Vaquero LM, Barrado MES, Escobar D, et al. C-Reactive protein and SOFA score as early predictors of critical care requirement in patients with COVID-19 pneumonia in Spain. medRxiv 2020; : 2020.05.22.20110429.
+
+102       Kim L, Garg S, O’Halloran A, et al. Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET). medRxiv 2020; : 2020.05.18.20103390.
+
+103       Wu MA, Fossali T, Pandolfi L, et al. COVID-19 the key role of pulmonary capillary leakage. An observational cohort study. medrxiv 2020; : 2020.05.17.20104877.
+
+104       Shi Q, Zhao K, Yu J, et al. Clinical characteristics of 101 COVID-19 nonsurvivors in Wuhan, China: a retrospective study. medRxiv 2020; : 2020.03.04.20031039.
+
+105       Kimmig LM, Wu D, Gold M, et al. IL6 inhibition in critically ill COVID-19 patients is associated with increased secondary infections. medRxiv 2020; : 2020.05.15.20103531.
+
+106       Al-Hindawi A, Sokhi J, Cuddihy J, et al. COVID-19 in London a Case Series Demonstrating Late Improvement in Survivors. medrxiv 2020; : 2020.05.16.20103853.
+
+107       Basse C, Diakite S, Servois V, et al. Characteristics and outcome of SARS-CoV-2 infection in cancer patients. medRxiv 2020; : 2020.05.14.20101576.
+
+108       Freites D, Leon L, Mucientes A, et al. Risk factors for hospital admission related to COVID-19 in inflammatory rheumatic diseases. medRxiv 2020; : 2020.05.14.20101584.
+
+109       Alshami AA, Alattas RA, Anan HF, et al. Silent Disease and Loss of Taste and Smell are Common Manifestations of SARS-COV-2 Infection in a Quarantine Facility: First report from Saudi Arabia. medRxiv 2020; : 2020.05.13.20100222.
+
+110       Berumen J, Schmulson M, Alegre J, et al. Risk of infection and hospitalization by Covid-19 in Mexico: a case-control study. medRxiv 2020; : 2020.05.24.20104414.
+
+111       Gianfrancesco M, Hyrich KL, Al-Adely S, et al. Characteristics associated with hospitalisation for COVID-19 in people with rheumatic disease: data from the COVID-19 Global Rheumatology Alliance physician-reported registry. Ann Rheum Dis 2020; published online May 29. DOI:10.1136/annrheumdis-2020-217871.
+
+112       Li J, Long X, Zhu C, et al. Olfactory dysfunction in recovered COVID-19 patients. Mov Disord 2020; : mds.28172.
+
+113       Batty GD, Deary I, Luciano M, Altschul D, Kivimaki M, Gale C. Psychosocial factors and hospitalisations for COVID-19: Prospective cohort study of the general population. medRxiv 2020; : 2020.05.29.20100735.
+
+114       Israel A, Feldhamer I, Lahad A, Levin-Zamir D, Lavie G. Smoking and the risk of COVID-19 in a large observational population study. medRxiv 2020; : 2020.06.01.20118877.
+
+115       Valle DM Del, Kim-schulze S, Hsin-hui H, et al. An inflammatory cytokine signature helps predict COVID-19 severity and death. medRxiv 2020; : 2020.05.28.20115758.
+
+116       Zuo Y, Zuo M, Yalavarthi S, et al. Neutrophil extracellular traps and thrombosis in COVID-19. medRxiv 2020; : 2020.04.30.20086736.
+
+117       Chaudhry F, Bulka H, Rathnam AS, et al. COVID-19 in Multiple Sclerosis Patients and Risk Factors for Severe Infection. medRxiv 2020; : 2020.05.27.20114827.
+
+118       Louis S, Dhawan A, Newey C, et al. Continuous Electroencephalography (cEEG) Characteristics and Acute Symptomatic Seizures in COVID-19 Patients. medRxiv 2020; : 2020.05.26.20114033.
+
+119       Soto-Mota A, Garza BAM, Rodriguez EM, et al. THE LOW-HARM SCORE FOR PREDICTING MORTALITY IN PATIENTS DIAGNOSED WITH COVID-19: A MULTICENTRIC VALIDATION STUDY. medRxiv 2020; : 2020.05.26.20111120.
+
+120       Patel M, Gangemi A, Marron R, et al. Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-19. medRxiv 2020; : 2020.05.22.20109355.
+
+121       Garibaldi BT, Fiksel J, Muschelli J, et al. Patient trajectories and risk factors for severe outcomes among persons hospitalized for COVID-19 in the Maryland/DC region. medRxiv 2020; : 2020.05.24.20111864.
+
+122       Docherty AB, Harrison EM, Green CA, et al. Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study. BMJ 2020; 369: m1985.
+
+123       Boulware DR, Pullen MF, Bangdiwala AS, et al. A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19. N Engl J Med 2020; : NEJMoa2016638.
+
+124       Kuderer NM, Choueiri TK, Shah DP, et al. Clinical impact of COVID-19 on patients with cancer (CCC19): a cohort study. Lancet 2020; 395: 1907–18.
+
+125       Romão VC, Oliveira-Ramos F, Cruz-Machado AR, et al. A COVID-19 outbreak in a rheumatology department upon the early days of the pandemic. medRxiv 2020; : 2020.06.05.20107011.
+
+126       Giannouchos T, Sussman R, Mier JM, Poulas K, Farsalinos K. Characteristics and risk factors for COVID-19 diagnosis and adverse outcomes in Mexico: an analysis of 89,756 laboratory-confirmed COVID-19 cases. medRxiv 2020; : 2020.06.04.20122481.
+
+127       Ramlall V, Thangaraj P, Tatonetti NP, Shapira SD. Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome. medRxiv 2020; : 2020.05.05.20092452.
+
+128       Wang B, Oekelen O Van, Mouhieddine T, et al. A tertiary center experience of multiple myeloma patients with COVID-19: lessons learned and the path forward. medRxiv 2020; 1: 2020.06.04.20122846.
+
+129       Perrone F, Piccirillo MC, Ascierto PA, et al. Department of Mental Health and Preventive Medicine, Università degli Studi della Campania Luigi Vanvitelli 1. 2020.
+
+130       Sharma AK, Ahmed A, Baig VN, et al. Characteristics and Outcomes of Hospitalized Young Adults with Mild to Moderate Covid-19 at a University Hospital in India. medRxiv 2020; : 2020.06.02.20106310.
+
+131       eugen-olsen  jesper, Altintas I, Tingleff J, et al. Low levels of the prognostic biomarker suPAR are predictive of mild outcome in patients with symptoms of COVID-19 - a prospective cohort study. medRxiv 2020; : 2020.05.27.20114678.
+
+132       Martinez-Portilla RJ, Sotiriadis A, Torres-Torres J, et al. Risk factors for mortality in pregnant women with SARS-CoV-2 infection. medRxiv 2020; : 2020.05.31.20107276.
+
+133       Raisi-Estabragh Z, McCracken C, Bethell MS, et al. Greater risk of severe COVID-19 in non-White ethnicities is not explained by cardiometabolic, socioeconomic, or behavioural factors, or by 25(OH)-vitamin D status: study of 1,326 cases from the UK Biobank. medRxiv 2020; 25: 2020.06.01.20118943.
+
+134       Luo H, Liu S, Wang Y, et al. Age differences in clinical features and outcomes in patients with COVID-19 Jiangsu China a retrospective multi-center cohort study. medrxiv 2020; : 1–16.
+
+135       Houlihan C, Vora N, Byrne T, et al. SARS-CoV-2 virus and antibodies in front-line Health Care Workers in an acute hospital in London: preliminary results from a longitudinal study. medRxiv 2020; : 2020.06.08.20120584.
+
+136       Cen Y, Chen X, Shen Y, et al. Risk factors for disease progression in patients with mild to moderate coronavirus disease 2019—a multi-centre observational study. Clin Microbiol Infect 2020; published online June. DOI:10.1016/j.cmi.2020.05.041.
+
+137       Klang E, Kassim G, Soffer S, Freeman R, Levin MA, Reich DL. Morbid Obesity as an Independent Risk Factor for COVID‐19 Mortality in Hospitalized Patients Younger than 50. Obesity 2020; : 0–3.
+
+138       Maraschini A, Corsi E, Salvatore MA, Donati S. Coronavirus and birth in Italy: results of a national population-based cohort study. medRxiv 2020; : 2020.06.11.20128652.
+
+139       WANG A-L, Zhong X, Hurd Y. Comorbidity and Sociodemographic determinants in COVID-19 Mortality in an US Urban Healthcare System. medRxiv 2020; : 2020.06.11.20128926.
+
+140       McQueenie R, Foster H, Jani BD, et al. Multimorbidity, Polypharmacy, and COVID-19 infection within the UK Biobank cohort. medRxiv 2020; : 2020.06.10.20127563.
+
+141       Apea VJ, Wan YI, Dhairyawan R, et al. Ethnicity and outcomes in patients hospitalised with COVID-19 infection in East London: an observational cohort study. medRxiv 2020; : 2020.06.10.20127621.
+
+142       Woolford SJ, D’angelo S, Curtis EM, et al. COVID-19 and associations with frailty and multimorbidity: a prospective analysis of UK Biobank participants. medRxiv 2020; : 2020.06.09.20126292.
+
+143       Hultcrantz M, Richter J, Rosenbaum C, et al. COVID-19 infections and outcomes in patients with multiple myeloma in New York City: a cohort study from five academic centers. medRxiv 2020; : 2020.06.09.20126516.
+
+144       Rajter JC, Sherman M, Fatteh N, Vogel F, Sacks J, Rajter J-J. ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19. medRxiv 2020; : 2020.06.06.20124461.
+
+145       Lan F-Y, Suharlim C, Kales SN, Yang J. Association between SARS-CoV-2 infection, exposure risk and mental health among a cohort of essential retail workers in the United States. medRxiv 2020; : 2020.06.08.20125120.
+
+146       Russell B, Moss C, Papa S, et al. Factors affecting COVID-19 outcomes in cancer patients − A first report from Guys Cancer Centre in London. medRxiv 2020; : 2020.05.12.20094219.
+
+147       Zeng H, Zhang T, He X, et al. Impact of Chronic Comorbidities on Progression and Prognosis in Patients with COVID-19: A Retrospective Cohort Study in 1031 Hospitalized Cases in Wuhan, China. medRxiv 2020; : 2020.06.14.20125997.
+
+148       Suleyman G, Fadel RA, Malette KM, et al. Clinical Characteristics and Morbidity Associated With Coronavirus Disease 2019 in a Series of Patients in Metropolitan Detroit. JAMA Netw open 2020; 3: e2012270.
+
+149       Chen L, Yu J, He W, et al. Risk factors for death in 1859 subjects with COVID-19. Leukemia 2020; : 1–11.
+
+150       Chiara Garassino M, Whisenant JG, Huang L-C, et al. Articles COVID-19 in patients with thoracic malignancies (TERAVOLT): first results of an international, registry-based, cohort study. Lancet Oncol 2045. DOI:10.1016/S1470-2045(20)30314-4.
+
+151       Hernández-Garduño E. Obesity is the comorbidity more strongly associated for Covid-19 in Mexico. A case-control study. Obes Res Clin Pract 2020; published online June. DOI:10.1016/j.orcp.2020.06.001.
+
+152       Govind R, Freitas DF de, Pritchard MR, Hayes RD, MacCabe JH. Clozapine treatment and risk of COVID-19. medRxiv 2020; : 2020.06.17.20133595.
+
+153       Sisó-almirall A, Kostov B, Mas-heredia M, Vilanova- S. PROGNOSTIC FACTORS IN SPANISH COVID-19 PATIENTS : A CASE SERIES FROM BARCELONA. 2020.
+
+154       Gu T, Mack JA, Salvatore M, et al. COVID-19 outcomes, risk factors and associations by race: a comprehensive analysis using electronic health records data in Michigan Medicine. medRxiv 2020; : 2020.06.16.20133140.
+
+155       Kibler M, Carmona A, Marchandot B, et al. Risk and severity of COVID-19 and ABO blood group in transcatheter aortic valve patients. medRxiv 2020; : 2020.06.13.20130211.
+
+156       Ikitimur H, Borku Uysal B, Cengiz M, et al. ‘“Determining Host Factors Contributing to Disease Severity in a Family Cluster of 29 Hospitalized SARS‐CoV‐2 Patients: Could Genetic Factors Be Relevant in the Clinical Course of COVID‐19?”’ J Med Virol 2020; : jmv.26106.
+
+157       Sierpiński R, Pinkas J, Jankowski M, et al. Gender differences in the frequency of gastrointestinal symptoms and olfactory or taste disorders among 1,942 non-hospitalized patients with COVID-19. Polish Arch Intern Med 2020. DOI:10.20452/pamw.15414.
+
+158       Zhou Y, He X, Zhang J, et al. Prolonged SARS-CoV-2 Viral Shedding in Patients with COVID-19 was Associated with Delayed Initiation of Arbidol Treatment: a retrospective cohort study. medRxiv 2020; : 2020.06.09.20076646.
+
+159       Crovetto F, Crispi F, Llurba E, Figueras F, Gomez-Roig MD, Gratacos E. SEROPREVALENCE AND CLINICAL SPECTRUM OF SARS-CoV-2 INFECTION IN THE FIRST VERSUS THIRD TRIMESTER OF PREGNANCY. medRxiv 2020; : 2020.06.17.20134098.
+
+160       Veras FP, Pontelli M, Silva C, et al. SARS-CoV-2 triggered neutrophil extracellular traps (NETs) mediate COVID-19 pathology. medRxiv 2020; : 2020.06.08.20125823.
+
+161       Sterlin D, Mathian A, Miyara M, et al. IgA dominates the early neutralizing antibody response to SARS-CoV-2. medRxiv 2020; : 2020.06.10.20126532.
+
+162       Rossi B, Nguyen LS, Zimmermann P, et al. Effect of tocilizumab in hospitalized patients with severe pneumonia COVID-19: a cohort study. medRxiv 2020; 1872: 2020.06.06.20122341.
+
+163       Duan L, Zhang S, Guo M, et al. Epidemiological and clinical characteristics in patients with SARS-CoV-2 antibody negative probable COVID-19 in Wuhan. medRxiv 2020; : 2020.06.18.20134619.
+
+164       Martin-Jimenez P, Munoz-Garcia MI, Seoane D, et al. Cognitive impairment is a common comorbidity in COVID-19 deceased patients. A hospital-based retrospective cohort study. medRxiv 2020; : 2020.06.08.20125872.
+
+165       Elezkurtaj S, Greuel S, Ihlow J, et al. Causes of Death and Comorbidities in Patients with COVID-19. medRxiv 2020; : 2020.06.15.20131540.
+
+166       Lenka J, Chhabria MS, Sharma N, et al. Clinical characteristics and outcomes of critically ill patients with COVID-19 in a tertiary community hospital in upstate New York. medRxiv 2020; : 2020.06.18.20135046.
+
+167       Olivares F, Munoz D, Fica A, et al. Covid-19 in Chile. The experience of a Regional reference Center. Preliminary report. medRxiv 2020; : 2020.06.14.20130898.
+
+168       Salton F, Confalonieri P, Santus P, et al. Prolonged low-dose methylprednisolone in patients with severe COVID-19 pneumonia. medRxiv 2020; : 2020.06.17.20134031.
+
+169       Wei W, Ortwine JK, Mang NS, Joseph C, Hall BC, Prokesch BC. Limited Role for Antibiotics in COVID-19: Scarce Evidence of Bacterial Coinfection. medRxiv 2020; : 2020.06.16.20133181.
+
+170       Zuo Y, Estes SK, Gandhi AA, et al. Prothrombotic antiphospholipid antibodies in COVID-19 Yu. medRxiv 2020.
+
+171       Killerby ME, Link-Gelles R, Haight SC, et al. Characteristics Associated with Hospitalization Among Patients with COVID-19 — Metropolitan Atlanta, Georgia, March–April 2020. MMWR Morb Mortal Wkly Rep 2020; 69: 790–4.
+
+172       Hopkinson NS, Rossi NN, Moustafa JE-SSE, et al. Current tobacco smoking and risk from COVID-19 results from a population symptom app in over 2.4 million people. medrxiv 2020; 44: 2020.05.18.20105288.
+
+173       Major home testing programme for coronavirus will track levels of infection in the community - GOV.UK. https://www.gov.uk/government/news/major-home-testing-programme-for-coronavirus-will-track-levels-of-infection-in-the-community (accessed May 22, 2020).
+
+174       COVID-19 Infection Survey (CIS) - Office for National Statistics. https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/covid19infectionsurveycis (accessed June 30, 2020).
+
+175       Farsalinos K, Barbouni A, Poulas K, Polosa R, Caponnetto P, Niaura R. Current smoking, former smoking, and adverse outcome among hospitalized COVID-19 patients: a systematic review and meta-analysis. Ther Adv Chronic Dis 2020; 11: 204062232093576.
+
+176       Polubriaginof F, Salmasian H, Albert DA, Vawdrey DK. Challenges with Collecting Smoking Status in Electronic Health Records. AMIA . Annu Symp proceedings AMIA Symp 2017; 2017: 1392–400.
+
+177       Benowitz NL, Schultz KE, Haller CA, Wu AHB, Dains KM, Jacob P. Prevalence of smoking assessed biochemically in an urban public hospital: a rationale for routine cotinine screening. Am J Epidemiol 2009; 170: 885–91.
+
+178       Griffith G, Morris TT, Tudball M, et al. Collider bias undermines our understanding of COVID-19 disease risk and severity. medRxiv 2020; : 2020.05.04.20090506.
+
+179       Murray E. Causation in smoking and COVID-19. Twitter. 2020. https://twitter.com/EpiEllie/status/1258607277357006849?s=20.
+
+180       Bowyer RCE, Varsavsky T, Carole H. Geo-social gradients in predicted COVID-19 prevalence and severity in Great Britain : results from Affiliations : Corresponding authors : Understanding the geographical distribution of COVID-19 through the general population is key to the provision of ade. 2020.
+
+181       Jackson SE, Brown J, Shahab L, Steptoe A, Fancourt D. COVID-19, smoking, and inequalities: a cross-sectional survey of adults in the UK. Submitted 2020.
+
+182       Shahab L, Brose LS, West R. Novel delivery systems for nicotine replacement therapy as an aid to smoking cessation and for harm reduction: Rationale, and evidence for advantages over existing systems. CNS Drugs 2013; 27: 1007–19.
+
+183       Stead LF, Buitrago D, Preciado N, Sanchez G, Hartmann-Boyce J, Lancaster T. Physician advice for smoking cessation. Cochrane Database Syst. Rev. 2013; 2017. DOI:10.1002/14651858.CD000165.pub4.
+
+Open Peer Review
+Review Article
+Awaiting Peer Review
+
+No Reviews yet for this version. Sign Up as Researcher to review it or
+Suggest for a Review
+
+Reviews to other version(s)
+
+            PH
+
+    Peter Hajek published a Review
+    April 23, 2020
+    Make action
+    Preprint v1
+    https://doi.org/10.32388/80GO5O
+
+    The living review is a great idea that could provide a useful contribution to a hot topic. On most outcomes though, smokers were merged with ex-smokers. (The conclusion that 'current and former smoking is associated with greater disease severity' implies this is true for both of these groups, rather than for the merged sample of ever-smokers).
+
+    The counterintuitive hypothesis that is making waves and that is in urgent need of further testing is that current smoking (rather than smoking in the past) may provide a degree of protection (Qeios 561, 574, 581). 
+
+    Can you show the results for smokers and for ex-smokers separately?
+
+    See more
+    2 Comments
+
+    Advisory Board
+    Archive
+    Conduct Policy
+    How It Works
+    Publishing Policy
+    Terms
+    Privacy
+    Contact Us
+
+Follow at @qeios
+
+© 2020 Qeios Ltd. All rights reserved. London (UK).  |  Qeios  ·  ISSN 2632-3834  |  Indexed in Google Scholar   |  Archived in Portico and The British Library   |   CC BY   |  Open Access
+Tweeted by 29
+See more details

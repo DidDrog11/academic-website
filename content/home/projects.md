@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: COVID
+    tag: COVID
+  - name: Planetary Health
+    tag: Planetary Health
+  - name: Lassa
+    tag: Lassa
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

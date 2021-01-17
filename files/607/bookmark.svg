@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/Grey/bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-6.000000, -3.000000)" stroke-linecap="round" stroke-linejoin="round">
+        <g id="bookmark" transform="translate(7.000000, 4.000000)" fill="#646D82" fill-rule="nonzero" stroke="#A6B1C2">
+            <path d="M0,0 L0,15 L4.825,12.6260417 L10,15 L10,0 L0,0 Z M9.28571429,14.103125 L4.81785714,11.9572917 L0.714285714,14.0625 L0.714285714,0.625 L9.28571429,0.625 L9.28571429,14.103125 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
