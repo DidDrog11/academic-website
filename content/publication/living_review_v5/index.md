@@ -1,0 +1,43 @@
+---
+abstract: |
+  **Background:** SARS-CoV-2 is the causative agent of COVID-19, an emergent zoonotic disease which has reached pandemic levels and is designated a public health emergency of international concern. It is plausible that former or current smoking status is associated with infection, hospitalisation and/or mortality from COVID-19. 
+  
+  **Objective:** We aimed to estimate the association of smoking status with rates of i) infection, ii) hospitalisation, iii) disease severity, and iv) mortality from SARS-CoV-2/COVID-19 disease. 
+  
+  **Methods:** This is a living evidence review with frequent updates. We adopted recommended practice for rapid evidence reviews, which involved limiting the search to main databases and having one reviewer extract data and another verify. Published articles and pre-prints were identified via Ovid MEDLINE, medRxiv and expertise within the review team. We included observational or experimental studies with community-dwelling or hospitalised adults aged 16+ years who had received a test for SARS-CoV-2 infection or a diagnosis of COVID-19, providing that data on smoking status were reported. Studies were judged as ‘good’ quality if they; i) had low levels of missing data on smoking status (i.e. 20%) and used a reliable self-report measure that distinguished between current, former and never smoking status; AND ii) used biochemical verification of smoking status and reported results from adjusted analyses; OR reported data from a representative/random sample. Studies were rated as ‘fair’ if they fulfilled criterion i) only and were otherwise rated as ‘poor’. 
+  
+  **Results:** Version 5 with searches up to 23 June 2020 included 148 studies, 43 of which were conducted in China, 37 in the US, 15 in the UK, nine in Mexico, nine in Spain, eight in France, six in Italy, five across multiple international sites, two in Israel, and one each from 14 further countries. Thirty-two (21%) studies reported current, former and never smoking status. Twenty-six studies (17.6%) explicitly reported the proportion missing data on smoking status, which ranged from 0.08% to 96.4%. Notwithstanding recording uncertainties, compared with adult national prevalence estimates, recorded current and former smoking rates were generally lower than expected. In 12 ‘fair’ quality studies, current smokers were at reduced risk of testing positive for SARS-CoV-2 compared with never smokers (RR = 0.70, 95% CI = 0.55-0.88, *p* = .003, I<sup>2</sup> = 90%). No significant difference was observed between former and never smokers (RR = 1.02, 95% CI = 0.92-1.12, *p* = .76, I<sup>2</sup> = 72%). In seven ‘fair’ quality studies, there was no significant difference between current and never (RR = 1.06, 95% CI = 0.79-1.44, *p* = .63, I<sup>2</sup> = 79%) or former and never smokers (RR = 1.20, 95% CI = 0.95-1.51, *p* = .10, I<sup>2</sup> = 79%) in the risk of requiring admission to hospital with COVID-19 among those testing positive in the community. In six ‘fair’ quality studies, no significant difference in disease severity was observed between current and never smokers (RR = 1.22, 95% CI = 0.98-1.53, *p* = .08, I<sup>2</sup> = 22%). Former smokers were at increased risk of greater disease severity compared with never smokers (RR = 1.58, 95% CI = 1.07-2.32, p = .02, I<sup>2</sup> = 68%). In five ‘fair’ quality studies, current (RR = 1.70, 95% CI = 1.14-2.55, *p* = .01, I<sup>2</sup> = 29%) and former smokers (RR = 2.00, 95% CI = 1.57-2.55, *p* = 0.001, I<sup>2</sup> = 0%) were at increased risk of in-hospital death compared with never smokers. 
+  
+  **Conclusions:** Across 148 studies, there is substantial uncertainty about the associations of smoking with COVID-19 outcomes. The recorded smoking prevalence in the included studies was generally lower than overall adult national estimates. There was no evidence of reduced risk of admission to hospital for current compared with never smokers among those testing positive in the community. There was some evidence that current compared with never smoking is associated with reduced risk of testing positive in the community but also greater in-hospital mortality from COVID-19. There was some evidence that former compared with never smoking is associated with increased risk of greater disease severity and in-hospital mortality from COVID-19. 
+  
+  **Implications:** Unrelated to COVID-19, smokers are at a greater risk of a range of serious health problems. Given uncertainty around the association of smoking with COVID-19 outcomes, smoking cessation remains a public health priority and high-quality smoking cessation advice including recommendations to use alternative nicotine products should form part of public health efforts during this pandemic. High quality, smoking-specific research is needed to resolve these mixed findings.
+
+authors:
+- David Simons
+- Lion Shahab
+- Jamie Brown
+- Olga Perski
+date: "2020-07-29"
+doi: "10.32388/UJR2AW.6"
+featured: false
+projects:
+- Smoking and COVID
+publication: '*Qeios*'
+publication_short: ""
+publication_types:
+- "3"
+publishDate: "2020-07-29"
+tags:
+- Smoking
+- COVID
+- Epidemiology
+title: The association of smoking status with SARS-CoV-2 infection, hospitalisation and mortality from COVID-19; A living rapid evidence review (version 5)
+url_code: ""
+url_dataset: ""
+url_pdf: https://doi.org/10.32388/UJR2AW.6
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
