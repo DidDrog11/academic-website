@@ -26,4 +26,4 @@ url_video: ""
 
 A pilot visit took place in November-December 2020. Two study sites were enrolled in the project with rodent trapping taking place for 4 nights at each site. The study protocol has been refined based on this work and the study is due to start in February 2021. 
 
-A report has been produced from the initial work for sharing within the project team. It is available [here]({{< ref "post/rodent/index.html" >}}). This is an ongoing piece of work.
+A report has been produced from the initial work for sharing within the project team. It is available [here]({{< ref "post/rodent/index.md" >}}). This is an ongoing piece of work.
