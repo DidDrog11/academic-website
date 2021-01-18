@@ -9,6 +9,8 @@ links:
   icon_pack: fab
   name: "@QuitforCOVID"
   url: https://twitter.com/QuitforCovid
+- name: Latest report and code
+  url: https://diddrog11.github.io/
 summary: Work conducted with <a href="https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health/research/ucl-tobacco-alcohol-research-group-utarg">UTARG</a>  at UCL on the association of Smoking and COVID-19
 tags:
 - COVID
