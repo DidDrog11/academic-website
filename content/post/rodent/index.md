@@ -115,11 +115,11 @@ The code to produce the maps of trap location is in `scripts/geolocation_traps.R
 
 Lalehun was visited first, it took a couple of days to get up and running properly there so less trap nights were completed. 726 from Lalehun compared to 1120 from Seilama.
 
-[](/media/rodent_report_fig/proportion_trap_nights.png)
+![](/media/rodent_report_fig/proportion_trap_nights.png)
 
 During this visit no traps were set in houses, this will change for future visits.
 
-[](/media/rodent_report_fig/number_trap_nights.png)
+![](/media/rodent_report_fig/number_trap_nights.png)
 
 We arrived late in Lalehun on the first day and were only able to set up one site, two further sites were set the next day with the final two up by the 2nd of December. We were more efficient by the time we got to Seilama with all but the village site set up on the first day. We were thus able to complete 4 nights of trapping at each site in Seilama.
 
@@ -127,11 +127,11 @@ We arrived late in Lalehun on the first day and were only able to set up one sit
 
 We recorded the presence or absence of rodent bait the next morning, along with whether the trap was found to be sprung closed (i.e. it had been disturbed overnight or it had been triggered by a rodent but it had not successfully trapped it).
 
-[](/media/rodent_report_fig/traps_baits.png)
+![](/media/rodent_report_fig/traps_baits.png)
 
 There appears to be a decrease in removal of bait from the traps in subsequent nights
 
-[](/media/rodent_report_fig/proportion_rodents.png)
+![](/media/rodent_report_fig/proportion_rodents.png)
 
 65 Rodents were trapped during the pilot study:
 
@@ -144,25 +144,25 @@ No rodents were trapped in the distal agriculture or forested habitats at Lalehu
 
 48 (74%) of the trapped species belong to the family Muridae, the remaining 17 (26%) were shrews (family Soricidae). 
 
-[](/media/rodent_report_fig/genera.png)
+![](/media/rodent_report_fig/genera.png)
 
 The shrews (genera *Crocidura*) form the highest proportion of individuals. *Praomys* and *Lophuromys* were the most abundant Muridae genera. *Praomys* was not detected in Lalehun with *Lophuromys* being detected at both study sites. *Mus* and *Lemniscomys* were the only other Muridae caught in Lalehun. 6 additional genera of Muridae were trapped in Seilama above those caught in Lalehun.
 
-[](/media/rodent_report_fig/habitat_rodents.png)
+![](/media/rodent_report_fig/habitat_rodents.png)
 
 This shouldn't be over interpreted at the moment as more data will be needed but there is expected to be a difference in the habitat preferences of different species. This can also be looked at over time/seasonality.
 
-[](/media/rodent_report_fig/trapped_shrews.png)
+![](/media/rodent_report_fig/trapped_shrews.png)
 
 Shrews were trapped in most locations but not within the forested/fallow areas.
 
 ### Diversity
 
-[](/media/rodent_report_fig/genus_richness.png)
+![](/media/rodent_report_fig/genus_richness.png)
 
 Richness was similar across all sites in Seilama, less so in Lalehun but likely related to the reduced trap nights obtained there.
 
-[](/media/rodent_report_fig/individual_abundance.png)
+![](/media/rodent_report_fig/individual_abundance.png)
 
 There was some degree of increased abundance in the agricultural and fallow sites in Seilama compared to the village site. No rodents were trapped in site 4 and 5 in Lalehun so makes any comparisons slightly harder.
 
